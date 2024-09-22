@@ -1,0 +1,4 @@
+models/best.pt
+models/last.pt
+output_data/output_video.avi
+stubs/track_stubs.pkl
