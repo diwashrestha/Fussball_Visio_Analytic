@@ -2,3 +2,5 @@ models/best.pt
 models/last.pt
 output_data/output_video.avi
 stubs/track_stubs.pkl
+input_data/08fd33_4.mp4
+input_data/CityUtdR.mp4
